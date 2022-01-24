@@ -1,0 +1,14 @@
+
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+<!--<servlet>-->
+<!--    <servlet-name>mainServlet</servlet-name>-->
+<!--    <servlet-class>servlet.MainServlet</servlet-class>-->
+<!--</servlet>-->
+
+<!--    <servlet-mapping>-->
+<!--        <servlet-name>mainServlet</servlet-name>-->
+<!--        <url-pattern>/hello</url-pattern>-->
+<!--    </servlet-mapping>-->
+</web-app>
